@@ -1,0 +1,24 @@
+{
+  "name": "muahaha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalgleish/muahaha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalgleish/muahaha/issues"
+  },
+  "homepage": "https://github.com/dalgleish/muahaha#readme",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.2",
+    "node-fetch": "2.1.2",
+    "node-notifier": "5.2.1"
+  }
+}
