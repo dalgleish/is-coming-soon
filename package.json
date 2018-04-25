@@ -1,22 +1,15 @@
 {
-  "name": "muahaha",
+  "name": "is-coming-soon",
   "version": "1.0.0",
-  "description": "",
+  "description": "Checks if site is coming soon",
   "main": "cli.js",
-  "is-coming-soon": "./cli.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "muahaha": "./cli.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dalgleish/muahaha.git"
+    "url": "git+https://github.com/dalgleish/is-coming-soon.git"
   },
   "author": "Andrew Dalgleish",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dalgleish/muahaha/issues"
-  },
-  "homepage": "https://github.com/dalgleish/muahaha#readme",
   "dependencies": {
     "cheerio": "1.0.0-rc.2",
     "node-fetch": "2.1.2",
