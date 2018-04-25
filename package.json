@@ -2,7 +2,8 @@
   "name": "muahaha",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "cli.js",
+  "muahaha": "./cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/dalgleish/muahaha.git"
   },
-  "author": "",
+  "author": "Andrew Dalgleish",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dalgleish/muahaha/issues"

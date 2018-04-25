@@ -1,4 +1,4 @@
-//#!/usr/bin/env node
+#!/usr/bin/env node
 
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
@@ -41,7 +41,3 @@ fetch(`${URL}`, {
     }
 })
 .catch((err) => console.error(err));
-
-setTimeout(() => {
-    console.log('setTimeout')
-}, 10000);
